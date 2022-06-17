@@ -1,5 +1,5 @@
 ### I am a Python programmer mostly developing telegram bots and machine learning projects
- 🔭 I’m currently working on [Stackoverflow search engine](https://github.com/TyKo0707/stackoverflow_search) and [Queue Bot](https://github.com/Kirusha3000/QueueBot)
+ 🔭 I’m currently working on [Stackoverflow search engine](https://github.com/Kirusha3000/stackoverflow_search) and [Queue Bot](https://github.com/Kirusha3000/QueueBot)
  
  🌱 I’m currently learning Tensorflow/Keras
 <!--
