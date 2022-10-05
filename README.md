@@ -2,6 +2,8 @@
  🔭 I’m currently working on [Stackoverflow search engine](https://github.com/Kirusha3000/stackoverflow_search) and [Queue Bot](https://github.com/Kirusha3000/QueueBot)
  
  🌱 I’m currently learning Tensorflow/Keras
+ 
+ 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyryl-sidak-053b61226), [telegram](t.me/kipish_ss)
 <!--
 **Kirusha3000/Kirusha3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
