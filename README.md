@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Scientist/ML Engineer from Ukraine studying at National Technical University of Ukraine
 “Igor Sikorsky Kyiv Polytechnic Institute”</h3>
 
-### 🔭 I’m currently working on **[AirlineSatisfactionAnalysis](https://github.com/Kipish-ss/AirlineSatisfactionAnalysis)**
-
 ### 🌱 I’m currently learning **Tensorflow/Keras and PyTorch**
 
 ### 📫 How to reach me: 
