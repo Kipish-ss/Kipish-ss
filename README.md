@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyryl</h1>
-<h3 align="center">A passionate Data Scientist/ML Engineer from Ukraine studying at National Technical University of Ukraine
+<h3 align="center">A passionate Data Scientist/ML Engineer from Ukraine, bachelor at National Technical University of Ukraine
 “Igor Sikorsky Kyiv Polytechnic Institute”</h3>
-
-### 🌱 I’m currently learning **Tensorflow/Keras and PyTorch**
 
 ### 📫 How to reach me: 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/kipish_ss)
